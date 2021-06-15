@@ -24,10 +24,12 @@ Reducing food waste and shrinking hunger
   * income_data..[link to file](/notebook/Low_Income_household.csv)
   * pantry_data..[link to file](/notebook/Pantries_location.csv)
   
-## Notebook link for Text analysis
-[link to Notebook](/notebook/Food_Rescures.ipynb)  
+ 
 
 ## Food Rescuers servey Analytics
 * The screen shot of Servey Analytics
 * ![Screenshot of Expiration Date](/images/expiration_date.png)
 * ![Screenshot of Reasons of waste](/images/Reason_for_waste.png)
+
+## Notebook link for Text analysis
+[link to Notebook](/notebook/Food_Rescures.ipynb) 
