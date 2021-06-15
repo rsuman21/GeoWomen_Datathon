@@ -31,5 +31,10 @@ Reducing food waste and shrinking hunger
 * ![Screenshot of Expiration Date](/images/expiration_date.png)
 * ![Screenshot of Reasons of waste](/images/Reason_for_waste.png)
 
+
 ## Notebook link for Text analysis
 [link to Notebook](/notebook/Food_Rescures.ipynb) 
+  * ![Screenshot of Text analysis of Expiration food](/images/expiration.png)
+  * ![Screenshot of Text analysis of Reasons of waste](/images/food_waste.png)
+  * ![Screenshot of Text analysis of Reasons of waste](/images/behaviourChanges.png)
+
