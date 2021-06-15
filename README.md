@@ -20,12 +20,12 @@ Reducing food waste and shrinking hunger
   * import matplotlib.pyplot as plt
 
 ## CSV files to download
-  * food_data..[link to file](/notebook/Food_Rescuers_data.csv)
-  * income_data..[link to file](/notebook/Low_Income_household.csv)
-  * pantry_data..[link to file](/notebook/Pantries_location.csv)
+  * food_data..[link to file](./notebook/Food_Rescuers_data.csv)
+  * income_data..[link to file](./notebook/Low_Income_household.csv)
+  * pantry_data..[link to file](./notebook/Pantries_location.csv)
   
 ## Notebook link for Text analysis
-[link to Notebook](/notebook/AESO_Energy_Data_Assignment.ipynb)  
+[link to Notebook](./notebook/AESO_Energy_Data_Assignment.ipynb)  
 
 ## Food Rescuers servey Analytics
 * The screen shot of Servey Analytics
