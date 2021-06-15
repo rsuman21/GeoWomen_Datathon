@@ -1,5 +1,5 @@
-# GeoWomen_Datathon
-GeoWomen_Datathon
+# <font color='#00008B'><u>GeoWomen Datathon</u></font>
+GeoWomen_Datathon_Project
 ### The Food Rescuers
 Reducing food waste and shrinking hunger
 ## Problem Statement
@@ -23,3 +23,7 @@ Reducing food waste and shrinking hunger
 * import plotly.tools as tls
 * import matplotlib.pyplot as plt
 
+CSV files to download
+  * food_data..[link to file](./notebook/Food Rescuers_data.csv)
+  * income_data..[link to file](./notebook/Low_Income household.csv)
+  * pantry_data..[link to file](./notebook/Pantries lat.long.csv)
