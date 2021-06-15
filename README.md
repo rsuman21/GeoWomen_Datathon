@@ -25,7 +25,7 @@ Reducing food waste and shrinking hunger
   * pantry_data..[link to file](./notebook/Pantries_location.csv)
   
 ## Notebook link for Text analysis
-[link to Notebook](./notebook/AESO_Energy_Data_Assignment.ipynb)  
+[link to Notebook](/notebook/Food_Rescures.ipynb)  
 
 ## Food Rescuers servey Analytics
 * The screen shot of Servey Analytics
