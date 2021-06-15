@@ -13,6 +13,7 @@ Reducing food waste and shrinking hunger
 * import sys
 * import csv
 * import warnings
+
 * warnings.filterwarnings('ignore')
 * from datetime import datetime
 * from ipywidgets import interact, interactive, fixed, interact_manual
@@ -24,6 +25,7 @@ Reducing food waste and shrinking hunger
 * import matplotlib.pyplot as plt
 
 CSV files to download
-  * food_data..[link to file](./notebook/Food Rescuers_data.csv)
-  * income_data..[link to file](./notebook/Low_Income household.csv)
-  * pantry_data..[link to file](./notebook/Pantries lat.long.csv)
+  * food_data..[link to file](./notebook/Food_Rescuers_data.csv)
+  * income_data..[link to file](./notebook/Low_Income_household.csv)
+  * pantry_data..[link to file](./notebook/Pantries_location.csv)
+  
