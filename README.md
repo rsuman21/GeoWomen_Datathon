@@ -45,5 +45,5 @@ Reducing food waste and shrinking hunger
 ### Text analysis of Reasons of waste
   ![Screenshot of Text analysis of Reasons of waste](/images/food_waste.png)
 ### Text analysis of Reasons of waste
-  ![Screenshot of Text analysis of Reasons of waste](/images/behaviourChanges.png)
+  ![Screenshot of Text analysis of Food Behaviour changes](/images/behaviourChanges.png)
 
