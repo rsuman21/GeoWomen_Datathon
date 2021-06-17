@@ -44,6 +44,6 @@ Reducing food waste and shrinking hunger
   ![Screenshot of Text analysis of Expiration food](/images/expiration.png)
 ### Text analysis of Reasons of waste
   ![Screenshot of Text analysis of Reasons of waste](/images/food_waste.png)
-### Text analysis of Reasons of waste
+### Text analysis of Food Behaviour changes
   ![Screenshot of Text analysis of Food Behaviour changes](/images/behaviourChanges.png)
 
