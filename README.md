@@ -28,12 +28,15 @@ Reducing food waste and shrinking hunger
 
 ## Food Rescuers servey Analytics
 * The screen shot of Servey Analytics
-![Screenshot of Expiration Date](/images/pantries.png)
-![Screenshot of Reasons of waste](/images/Proposed_pantries.png)
+![Screenshot of Expiration Date](/images/expiration_date.png)
+
+![Screenshot of Reasons of waste](/images/reason_for_waste.png)
 
 ## Current Pantries
-![Screenshot of Expiration Date](/images/expiration_date.png)
+![Screenshot of Expiration Date](/images/pantries.png)
+
 ## Proposed Pantries
+![Screenshot of Reasons of waste](/images/Proposed_pantries.png)
 
 ## Notebook link for Text analysis
 [link to Notebook](/notebook/Food_Rescures.ipynb) 
