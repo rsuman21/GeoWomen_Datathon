@@ -30,7 +30,7 @@ Reducing food waste and shrinking hunger
 * The screen shot of Servey Analytics
 ![Screenshot of Expiration Date](/images/expiration_date.png)
 
-![Screenshot of Reasons of waste](/images/reason_for_waste.png)
+![Screenshot of Reasons of waste](/images/Reason_for_waste.png)
 
 ## Current Pantries
 ![Screenshot of Expiration Date](/images/pantries.png)
